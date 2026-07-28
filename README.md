@@ -22,10 +22,10 @@
 - [x] Funciones de agregación y agrupamiento (`GROUP BY`, `HAVING`)
 
 ### 2. Manipulación y Relaciones Avanzadas
-- [ ] Combinación de tablas (`INNER JOIN`, `LEFT/RIGHT JOIN`, `FULL JOIN`)
-- [ ] Subconsultas (Correlacionadas y No correlacionadas)
-- [ ] Operadores de conjuntos (`UNION`, `INTERSECT`, `EXCEPT`)
-- [ ] Expresiones Comunes de Tabla (CTEs) y CTEs Recursivas
+- [x] Combinación de tablas (`INNER JOIN`, `LEFT/RIGHT JOIN`, `FULL JOIN`)
+- [x] Subconsultas (Correlacionadas y No correlacionadas)
+- [x] Operadores de conjuntos (`UNION`, `INTERSECT`, `EXCEPT`)
+- [x] Expresiones Comunes de Tabla (CTEs) y CTEs Recursivas
 
 ### 3. Programación en SQL (PL/SQL, PL/pgSQL)
 - [ ] Variables y control de flujo (`IF`, `CASE`, `LOOP`)
