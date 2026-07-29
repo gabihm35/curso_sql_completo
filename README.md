@@ -26,9 +26,13 @@
 - [x] Subconsultas (Correlacionadas y No correlacionadas)
 - [x] Operadores de conjuntos (`UNION`, `INTERSECT`, `EXCEPT`)
 - [x] Expresiones Comunes de Tabla (CTEs) y CTEs Recursivas
+- [x] Funciones Escalares y Transformación (`UPPER`, `SUBSTR`, `CEILING`, `ROUND`, `FLOOR`,`CAST`, `Funciones FECHA`, `CONCAT`, `LENGTH`, `LEFT`, `RIGHT`)
+- [x] Funciones de Fecha (`CURDATE`, `DATE_ADD`)
+- [x] Expresiones regulares regexp (`REGEXP`, `RLIKE`)
 
 ### 3. Programación en SQL (PL/SQL, PL/pgSQL)
-- [ ] Variables y control de flujo (`IF`, `CASE`, `LOOP`)
+- [x] Variables y control de flujo (`IF`, `CASE`)
+- [x] Funciones de ventana (`PARTITION BY`, `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`)
 - [ ] Funciones y Procedimientos Almacenados (*Stored Procedures*)
 - [ ] Triggers y Automatización de eventos
 - [ ] Manejo de transacciones y control de concurrencia (`BEGIN`, `COMMIT`, `ROLLBACK`)
