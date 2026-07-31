@@ -16,6 +16,8 @@
 
 ### 1. Fundamentos de SQL
 - [x] Introducción a bases de datos relacionales (RDBMS)
+- [x] Diseño y modelado DER y Cardinalidad
+- [x] Normalizacion de bases de datos
 - [x] Lenguaje DDL (`CREATE`, `ALTER`, `DROP`)
 - [x] Lenguaje DML (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)
 - [x] Filtrado y ordenamiento (`WHERE`, `ORDER BY`, `LIKE`, `BETWEEN`)
@@ -29,13 +31,15 @@
 - [x] Funciones Escalares y Transformación (`UPPER`, `SUBSTR`, `CEILING`, `ROUND`, `FLOOR`,`CAST`, `Funciones FECHA`, `CONCAT`, `LENGTH`, `LEFT`, `RIGHT`)
 - [x] Funciones de Fecha (`CURDATE`, `DATE_ADD`)
 - [x] Expresiones regulares regexp (`REGEXP`, `RLIKE`)
+- [x] Vistas y Vistas Materializadas (`VIEWS`, `MATERIALIZED VIEWS`)
 
 ### 3. Programación en SQL (PL/SQL, PL/pgSQL)
 - [x] Variables y control de flujo (`IF`, `CASE`)
 - [x] Funciones de ventana (`PARTITION BY`, `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`)
-- [ ] Funciones y Procedimientos Almacenados (*Stored Procedures*)
+- [x] Funciones y Procedimientos Almacenados (*Stored Procedures*)
+- [x] Manejo de transacciones y control de concurrencia (`BEGIN`, `COMMIT`, `ROLLBACK`, `SAVEPOINT`)
 - [ ] Triggers y Automatización de eventos
-- [ ] Manejo de transacciones y control de concurrencia (`BEGIN`, `COMMIT`, `ROLLBACK`)
+
 
 ### 4. Optimizador y Performance
 - [ ] Diseño de índices y estrategias de indexación (B-Tree, Hash, etc.)
