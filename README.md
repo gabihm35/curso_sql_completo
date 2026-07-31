@@ -38,7 +38,7 @@
 - [x] Funciones de ventana (`PARTITION BY`, `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`)
 - [x] Funciones y Procedimientos Almacenados (*Stored Procedures*)
 - [x] Manejo de transacciones y control de concurrencia (`BEGIN`, `COMMIT`, `ROLLBACK`, `SAVEPOINT`)
-- [ ] Triggers y Automatización de eventos
+- [x] Triggers y Automatización de eventos
 
 
 ### 4. Optimizador y Performance
