@@ -2,16 +2,6 @@
 
 ¡Bienvenido/a a mi repositorio de aprendizaje de SQL! Este espacio reúne la documentación, ejercicios prácticos y proyectos desarrollados durante mi trayecto de aprendizaje, abarcando desde consultas básicas hasta optimización, programación procedural y despliegues en la nube.
 
----
-
-## 📌 Estado del Curso
-
-- **Inicio:** July 2026
-- **Estado:** 🟡 En progreso
-- **Base de Datos Principal:** PostgreSQL / MySQL / AWS RDS
-
----
-
 ## 📚 Índice de Contenidos
 
 ### 1. Fundamentos de SQL
@@ -42,22 +32,22 @@
 
 
 ### 4. Optimizador y Performance
-- [ ] Diseño de índices y estrategias de indexación (B-Tree, Hash, etc.)
-- [ ] Análisis de planes de ejecución (`EXPLAIN / EXPLAIN ANALYZE`)
-- [ ] Técnicas de optimización de consultas (*Query Tuning*)
-- [ ] Particionamiento de tablas
+- [x] Diseño de índices y estrategias de indexación (B-Tree, Hash, etc.)
+- [x] Análisis de planes de ejecución (`EXPLAIN / EXPLAIN ANALYZE`)
+- [x] Técnicas de optimización de consultas (*Query Tuning*)
+- [x] Particionamiento de tablas
 
 ### 5. SQL en la Nube (AWS & RDS)
-- [ ] Aprovisionamiento y configuración de AWS RDS
-- [ ] Conexión remota y gestión de seguridad (Security Groups, VPC)
-- [ ] Automatización de copias de seguridad y replicación
-- [ ] Monitoreo de métricas con CloudWatch
+- [x] Aprovisionamiento y configuración de AWS RDS
+- [x] Conexión remota y gestión de seguridad (Security Groups, VPC)
+- [x] Automatización de copias de seguridad y replicación
+- [x] Monitoreo de métricas con CloudWatch
 
 ---
 
 ## 🛠️ Herramientas Utilizadas
 
-- **SGBD:** PostgreSQL / MySQL
+- **Base de Datos Principal:** PostgreSQL / MySQL / AWS RDS
 - **Clientes GUI:** DBeaver / pgAdmin
 - **Cloud:** Amazon Web Services (AWS RDS)
 - **Control de Versiones:** Git & GitHub
